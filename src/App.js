@@ -1,9 +1,10 @@
 import React from 'react';
-import "./tailwind.css"
+import "./tailwind.css";
+
 function App() {
   return (
-    <div className="text-2xl">
-     Hello world
+    <div className="App">
+      hello world
     </div>
   );
 }
